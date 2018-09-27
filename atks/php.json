@@ -1,0 +1,8 @@
+{
+    "attacks": [
+        {
+            "name": "SQL injection",
+            "pattern": "(query|exec|mysql_query|pg_query)"
+        }
+    ]
+}
