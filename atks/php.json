@@ -3,6 +3,10 @@
         {
             "name": "SQL injection",
             "pattern": "(query|exec|mysql_query|pg_query)"
+        },
+        {
+            "name": "JAVA SQL injection",
+            "pattern": "(error|msg=error.generic|cmd.exe|INJECTION)"
         }
     ]
 }
